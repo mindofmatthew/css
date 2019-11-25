@@ -1,0 +1,15 @@
+{
+  "name": "@mindofmatthew/css",
+  "version": "0.0.1",
+  "description": "Basic default CSS styles with variables for easy theming",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindofmatthew/css.git"
+  },
+  "author": "Matthew Kaney",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mindofmatthew/css/issues"
+  },
+  "homepage": "https://github.com/mindofmatthew/css#readme"
+}

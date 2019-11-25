@@ -1,0 +1,12 @@
+:root {
+  --active-color: dodgerblue;
+}
+
+button {
+
+}
+
+button:focus {
+  outline: none;
+  border: solid var(--active-color) 4px;
+}
