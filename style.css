@@ -1,9 +1,10 @@
 :root {
+  --control-color: #ccc;
   --active-color: dodgerblue;
 }
 
 button {
-
+  background: var(--control-color);
 }
 
 button:focus {
